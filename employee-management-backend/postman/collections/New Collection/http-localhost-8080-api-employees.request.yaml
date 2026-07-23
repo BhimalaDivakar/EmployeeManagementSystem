@@ -1,0 +1,21 @@
+$kind: http-request
+name: http://localhost:8080/api/employees
+description: ""
+url: http://localhost:8080/api/employees
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"name\": \"Divakar\",\r
+
+    \  \"email\": \"divakar@gmail.com\",\r
+
+    \  \"department\": \"CSE\",\r
+
+    \  \"salary\": 50000\r
+
+    }"
+auth:
+  type: noauth
+order: 1784169309214
