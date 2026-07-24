@@ -1,7 +1,7 @@
 $kind: http-request
 name: https://employeemanagementsystem-o3vo.onrender.com
 description: ""
-url: https://employeemanagementsystem-o3vo.onrender.com
+url: https://employeemanagementsystem-o3vo.onrender.comgit commit -m "Fix CORS for deployed frontend"
 method: POST
 body:
   type: json
