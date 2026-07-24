@@ -1,7 +1,7 @@
 $kind: http-request
-name: http://localhost:8080/api/employees
+name: https://employeemanagementsystem-o3vo.onrender.com
 description: ""
-url: http://localhost:8080/api/employees
+url: https://employeemanagementsystem-o3vo.onrender.com
 method: POST
 body:
   type: json
